@@ -1,7 +1,7 @@
-import "./App.css";
+import ListContainer from "./components/ListContainer";
 
 function App() {
-  return <div></div>;
+  return <ListContainer />;
 }
 
 export default App;
